@@ -81,7 +81,6 @@ Entre em contato comigo em um dos seguintes lugares!
 - Linkedin: [@DanielSilva](https://www.linkedin.com/in/daniel-silva-tsi/)
 
 ---
-
 ## 🧪 Testado no Sistema Operacional
 
 - Windows (por @danielsilva)
